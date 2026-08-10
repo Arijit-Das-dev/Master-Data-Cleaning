@@ -182,16 +182,10 @@ If you spot an error or have a cleaner way to explain a concept, feel free to op
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Arijit Das**
-Data Analytics student passionate about building clean, reusable resources for the data community.
+A Data Analytics professional focused on data-driven problem solving and analytical solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arijit--Das--dev-181717?logo=github&logoColor=white)](https://github.com/Arijit-Das-dev)
 
