@@ -37,7 +37,6 @@ It's built to be two things at once:
 - [Learning Resources](#-learning-resources)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Author](#-author)
 
 ---
