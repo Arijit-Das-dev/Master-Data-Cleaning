@@ -185,7 +185,7 @@ If you spot an error or have a cleaner way to explain a concept, feel free to op
 ## 👤 Author
 
 **Arijit Das**
-A Data Analytics professional focused on data-driven problem solving and analytical solutions.
+, Data Analytics professional focused on data-driven problem solving and analytical solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Arijit--Das--dev-181717?logo=github&logoColor=white)](https://github.com/Arijit-Das-dev)
 
