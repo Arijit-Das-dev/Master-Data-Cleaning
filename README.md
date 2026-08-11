@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧹 Data Cleaning Tutorial
+# 🧹Master Data Cleaning
 
 **A hands-on, well-documented reference for cleaning real-world datasets with Python**
 
